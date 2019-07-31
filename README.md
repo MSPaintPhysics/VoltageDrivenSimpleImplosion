@@ -1,1 +1,1 @@
-# VoltageDrivenSimpleImplosion
+# This is another "0-D" implosion model of a cylindrical liner, co-written with my colleague Akash Shah, but this time the implosion is model is coupled to a circuit model.  It is voltage driven meaning an initial voltage is passed to the circuit equations and the voltage and current output are solved for simultaneously with the liner position.  It is again setup for a solid aluminum liner but can easily be modified by changing the density and thickness of the liner in the liner parameters section.
